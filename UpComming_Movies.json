@@ -3,6 +3,7 @@
     {
       "id": 11,
       "title": "The Hades",
+      "trailer": "https://www.youtube.com/watch?v=PSEoAaSswgo",
       "poster": "https://image.api.playstation.com/vulcan/ap/rnd/202104/0517/9AcM3vy5t77zPiJyKHwRfnNT.png",
       "year": "2020",
       "country": "New Zealand, USA",
@@ -21,6 +22,7 @@
     {
       "id": 12,
       "title": "Star Wars: Episode V - The Empire Strikes Back",
+      "trailer": "https://www.youtube.com/watch?v=PSEoAaSswgo",
       "poster": "https://moviesapi.ir/images/tt0080684_poster.jpg",
       "year": "1980",
       "country": "USA",
@@ -39,6 +41,7 @@
     {
       "id": 13,
       "title": "Forrest Gump",
+      "trailer": "https://www.youtube.com/watch?v=PSEoAaSswgo",
       "poster": "https://moviesapi.ir/images/tt0109830_poster.jpg",
       "year": "1994",
       "country": "USA",
@@ -56,6 +59,7 @@
     {
       "id": 14,
       "title": "Inception",
+      "trailer": "https://www.youtube.com/watch?v=PSEoAaSswgo",
       "poster": "https://moviesapi.ir/images/tt1375666_poster.jpg",
       "year": "2010",
       "country": "USA, UK",
@@ -74,6 +78,7 @@
     {
       "id": 15,
       "title": "The Lord of the Rings: The Two Towers",
+      "trailer": "https://www.youtube.com/watch?v=PSEoAaSswgo",
       "poster": "https://moviesapi.ir/images/tt0167261_poster.jpg",
       "year": "2002",
       "country": "USA, New Zealand",
@@ -92,6 +97,7 @@
     {
       "id": 16,
       "title": "One Flew Over the Cuckoo's Nest",
+      "trailer": "https://www.youtube.com/watch?v=PSEoAaSswgo",
       "poster": "https://moviesapi.ir/images/tt0073486_poster.jpg",
       "year": "1975",
       "country": "USA",
@@ -108,6 +114,7 @@
     {
       "id": 17,
       "title": "Goodfellas",
+      "trailer": "https://www.youtube.com/watch?v=PSEoAaSswgo",
       "poster": "https://moviesapi.ir/images/tt0099685_poster.jpg",
       "year": "1990",
       "country": "USA",
@@ -126,6 +133,7 @@
     {
       "id": 18,
       "title": "The Matrix",
+      "trailer": "https://www.youtube.com/watch?v=PSEoAaSswgo",
       "poster": "https://moviesapi.ir/images/tt0133093_poster.jpg",
       "year": "1999",
       "country": "USA",
@@ -143,6 +151,7 @@
     {
       "id": 19,
       "title": "Seven Samurai",
+      "trailer": "https://www.youtube.com/watch?v=PSEoAaSswgo",
       "poster": "https://moviesapi.ir/images/tt0047478_poster.jpg",
       "year": "1954",
       "country": "Japan",
@@ -156,6 +165,7 @@
     {
       "id": 20,
       "title": "Star Wars: Episode IV - A New Hope",
+      "trailer": "https://www.youtube.com/watch?v=PSEoAaSswgo",
       "poster": "https://moviesapi.ir/images/tt0076759_poster.jpg",
       "year": "1977",
       "country": "USA",
