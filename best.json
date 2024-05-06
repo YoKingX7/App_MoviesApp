@@ -3,6 +3,7 @@
     {
       "id": 1,
       "title": "The Boarderlands",
+      "Trailer": "https://www.youtube.com/watch?v=PSEoAaSswgo",
       "poster": "https://assets.2k.com/1a6ngf98576c/1p3cZDYjrSwx2l5woiELBV/7fcfdf1f2a88fed1666d6bece2b23a08/Borderlands_03_-_Super_Deluxe_-_425x535px.jpg",
       "year": "1994",
       "country": "USA",
@@ -20,6 +21,7 @@
     {
       "id": 2,
       "title": "Joker",
+      "Trailer": "https://www.youtube.com/watch?v=PSEoAaSswgo",
       "poster": "https://moviesapi.ir/images/tt0068646_poster.jpg",
       "year": "1972",
       "country": "USA",
@@ -37,6 +39,7 @@
     {
       "id": 3,
       "title": "The Godfather: Part II",
+      "Trailer": "https://www.youtube.com/watch?v=PSEoAaSswgo",
       "poster": "https://moviesapi.ir/images/tt0071562_poster.jpg",
       "year": "1974",
       "country": "USA",
@@ -54,6 +57,7 @@
     {
       "id": 4,
       "title": "The Dark Knight",
+      "Trailer": "https://www.youtube.com/watch?v=PSEoAaSswgo",
       "poster": "https://moviesapi.ir/images/tt0468569_poster.jpg",
       "year": "2008",
       "country": "USA, UK",
@@ -72,6 +76,7 @@
     {
       "id": 5,
       "title": "12 Angry Men",
+      "Trailer": "https://www.youtube.com/watch?v=PSEoAaSswgo",
       "poster": "https://moviesapi.ir/images/tt0050083_poster.jpg",
       "year": "1957",
       "country": "USA",
@@ -89,6 +94,7 @@
     {
       "id": 6,
       "title": "Schindler's List",
+      "Trailer": "https://www.youtube.com/watch?v=PSEoAaSswgo",
       "poster": "https://moviesapi.ir/images/tt0108052_poster.jpg",
       "year": "1993",
       "country": "USA",
@@ -107,6 +113,7 @@
     {
       "id": 7,
       "title": "Pulp Fiction",
+      "Trailer": "https://www.youtube.com/watch?v=PSEoAaSswgo",
       "poster": "https://moviesapi.ir/images/tt0110912_poster.jpg",
       "year": "1994",
       "country": "USA",
@@ -124,6 +131,7 @@
     {
       "id": 8,
       "title": "The Lord of the Rings: The Return of the King",
+      "Trailer": "https://www.youtube.com/watch?v=PSEoAaSswgo",
       "poster": "https://moviesapi.ir/images/tt0167260_poster.jpg",
       "year": "2003",
       "country": "USA, New Zealand",
@@ -142,6 +150,7 @@
     {
       "id": 9,
       "title": "The Good, the Bad and the Ugly",
+      "Trailer": "https://www.youtube.com/watch?v=PSEoAaSswgo",
       "poster": "https://moviesapi.ir/images/tt0060196_poster.jpg",
       "year": "1966",
       "country": "Italy, Spain, West Germany, USA",
@@ -158,6 +167,7 @@
     {
       "id": 10,
       "title": "Fight Club",
+      "Trailer": "https://www.youtube.com/watch?v=PSEoAaSswgo",
       "poster": "https://moviesapi.ir/images/tt0137523_poster.jpg",
       "year": "1999",
       "country": "USA, Germany",
